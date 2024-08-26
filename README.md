@@ -16,7 +16,7 @@ Ingest the files you want to search:
 python run.py --root <path to files>
 ```
 
-After that's done, you can search with CLIP:
+After that's done, you can search:
 
 ```
 python run.py --search "<search string>"
