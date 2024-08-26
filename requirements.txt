@@ -1,0 +1,8 @@
+psycopg[binary]
+torch
+python-dotenv
+pgvector
+Pillow
+tqdm
+transformers
+sentence-transformers
